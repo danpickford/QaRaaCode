@@ -1,0 +1,2 @@
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\QaRaa_Code_Generator.dll
+D:\Development\monodroid\zxing.monoandroid.dll

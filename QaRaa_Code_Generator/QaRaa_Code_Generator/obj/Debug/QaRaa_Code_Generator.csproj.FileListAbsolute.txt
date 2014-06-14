@@ -1,0 +1,17 @@
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\QaRaa_Code_Generator.dll
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\QaRaa_Code_Generator.pdb
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\QaRaa_Code_Generator.dll.mdb
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\QaRaa_Code_Generator.QaRaa_Code_Generator.apk
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\QaRaa_Code_Generator.QaRaa_Code_Generator-Signed.apk
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\QaRaa_Code_Generator.dll
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\QaRaa_Code_Generator.pdb
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\android\bin\QaRaa_Code_Generator.QaRaa_Code_Generator.apk
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\res\layout\main.xml
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\res\values\strings.xml
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\res\drawable\icon.png
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\R.cs.flag
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\obj\Debug\uploadflags.txt
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\zxing.monoandroid.dll
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\zxing.monoandroid.pdb
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\zxing.monoandroid.xml
+D:\Development\QaRaa_Code_Generator\QaRaa_Code_Generator\bin\Debug\zxing.monoandroid.dll.mdb
